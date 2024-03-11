@@ -1,6 +1,6 @@
 # frist-code
 This is a demo Git and Github class.
-# Techer
+# Teacher
 shrdha khapra
 
 # Student
