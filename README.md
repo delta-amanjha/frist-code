@@ -1,7 +1,7 @@
 # frist-code
 This is a demo Git and Github class.
 # Techer
-shrdha khpra
+shrdha khapra
 
 # Student
 Aman kumar jha
