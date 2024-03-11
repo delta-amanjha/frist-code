@@ -4,4 +4,4 @@ This is a demo Git and Github class.
 shrdha khpra
 
 # Student
-Aman jha
+Aman kumar jha
